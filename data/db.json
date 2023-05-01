@@ -1,0 +1,128 @@
+{
+  "Cities": [
+    {
+       "id":1,
+       "description":"Berlin, is renowned for its exceptional range of landmarks, vibrant cultural scene and way of life.",
+       "name":"Berlin",
+       "img": "/images/cities/berlin.jpg",
+        "available": "225"
+    },
+    {
+       "id":2,
+       "description":"Hamburg, a beautiful city bursting with atmosphere and a cosmopolitan charm.",
+       "name":"Hamburg",
+       "img": "/images/cities/hamburg.jpg",
+        "available": "178"
+    },
+    {
+       "id":3,
+       "description":"A city with a big heart, as suave as it is easygoing, buzzing and yet tranquil.",
+       "name":"Munich",
+       "img": "/images/cities/munich.webp",
+        "available": "165"
+    },
+    {
+       "id":4,
+       "description":"Frankfurt is home to businesses, skyscrapers and Europe's third largest airport all",
+       "name":"Frankfurt",
+       "img": "/images/cities/frankfurt.jpg",
+        "available": "170"
+    },
+    {
+       "id":5,
+       "description":"Cologne is known for its joyous attitude and party spirit. ",
+       "name":"Cologne",
+       "img": "/images/cities/cologne.webp",
+        "available": "142"
+    },
+    {
+       "id":6,
+       "description":"Stuttgart's automotive history is just as vibrant as the city's range of arts, culture and foodie offerings.",
+       "name":"Stuttgart",
+       "img": "/images/cities/stuttgart.jpg",
+        "available": "129"
+    }
+],
+    "Houses": [
+        {
+            "id":1,
+            "name":"A nice hotel room",
+            "img": "/images/houses/h1.jpg",
+            "rating": "3.4",
+            "beds": "5",
+            "baths": "2",
+            "surface" : "150",
+            "price": "150.00"
+        },
+        {
+            "id":2,
+            "name":"A nice house with pool",
+            "img": "/images/houses/h2.jpg",
+            "rating": "3.8",
+            "beds": "4",
+            "baths": "1",
+            "surface" : "110",
+            "price": "120.00"
+        },
+        {
+            "id":3,
+            "name":" hotel room with nice view",
+            "img": "/images/houses/h3.jpg",
+            "rating": "4.0",
+            "beds": "1",
+            "baths": "1",
+            "surface" : "130",
+            "price": "85.00"
+        },
+        {
+            "id":4,
+            "name":"comfortable hotel room",
+            "img": "/images/houses/h4.webp",
+            "rating": "4.3",
+            "beds": "1",
+            "baths": "1",
+            "surface" : "100",
+            "price": "95.00"
+        },
+        {
+            "id":5,
+            "name":"A house with nice view",
+            "img": "/images/houses/h5.jpg",
+            "rating": "3.9",
+            "beds": "3",
+            "baths": "2",
+            "surface" : "160",
+            "price": "122.00"
+        },
+        {
+            "id":6,
+            "name":"beautiful and traditional",
+            "img": "/images/houses/h6.jpg",
+            "rating": "4.4",
+            "beds": "6",
+            "baths": "3",
+            "surface" : "200",
+            "price": "170.00"
+        },
+        {
+            "id":7,
+            "name":"A nice and calm house",
+            "img": "/images/houses/h7.jpg",
+            "rating": "3.6",
+            "beds": "3",
+            "baths": "2",
+            "surface" : "180",
+            "price": "130.00"
+        },
+        {
+            "id":8,
+            "name":"cozy traditional house",
+            "img": "/images/houses/h8.jpg",
+            "rating": "3.8",
+            "beds": "5",
+            "baths": "2",
+            "surface" : "110",
+            "price": "155.00"
+        }
+    ]
+}
