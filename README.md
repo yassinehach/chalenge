@@ -1,3 +1,8 @@
+#install json-server
+  - open terminal and type the command : npm install -g json-server
+  - start the json server by typing the command : json-server -w ./data/db.json
+  - leave the json server running and open a second terminal to install the node modules and run the react app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
